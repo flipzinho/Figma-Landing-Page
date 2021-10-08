@@ -1,0 +1,112 @@
+#home{
+    background-color: rgb(229, 233, 241); background-size: 500px;
+ }
+.cor-azul{
+    color: rgb(36, 82, 235); font-weight: bold;
+}
+.cor-preta{
+    font-weight: bold;
+}
+.fundo{
+    background-color: rgb(241, 239, 239);
+}
+.overlay{
+    background: url()
+}
+.caixa{
+    padding: 60px 0px; border-bottom: 1px solid #e5e5e5; }
+    .espaco{
+        margin-bottom: 80px;
+    }
+.fluida{
+    width: 60%; float: right;
+}
+.row-1{
+    padding: 20px
+}
+body{
+    width: 100%
+}
+.fake-botao{
+    border: 1px solid rgba(0, 0, 0, 0.527); background-color:  rgb(236, 244, 245) ; border-radius: 20px; padding: 5px; padding-right: 10px; padding-left: 10px; color: rgba(0, 0, 0, 0.671); cursor: default; margin-left: 10px;
+}
+aside{
+    padding-top: 15px
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linha{
+    width: 10%;
+}
+.descricao{
+    font-weight: bold; font-size: 23px;
+}
+.posicionamento{
+    position: relative;}
+    .back-image{
+        background-image: url(amico.png); background-size: cover;
+    }
+    .back-image{
+        background-image: url(amico.png); background-repeat: no-repeat;
+        background-size: 422px 925px; background-attachment: scroll; bac
+    }
+    .row3{
+        margin: 0 auto; display: flex; justify-content: center;
+    } 
+    .row3 > h2{
+        align-items: center; 
+    } 
+    #fundo1{
+        background-color:rgb(229, 233, 241)
+    }
+    .retangulo{
+        background-color:rgb(229, 233, 241); width: 600px; height: 100px; padding-right: 20px
+    }
+    .btn-outline-dark:hover{
+        background-color:#0069D9; color: white; transition-duration: 0.2s;
+    }
+    .item-lista{
+        font-size: 12px; color: gray
+    }
+    .margem{
+        margin: 3px;
+    }
+    .caixa-info{
+        width: 357px; height: 737px;
+    }
+    .img-fluida{
+        width: 245px;
+    }
+    .borda{
+        border-top: 4px solid #0069D9; border-radius: 3px; margin-top: 75px
+    }
+    .cor-de-fundo{
+        background-color: rgb(240, 240, 240); padding: 15px; border-radius: 5px;
+    }
+    .bg-fundo{
+        background-image: url(character-1.png); background-repeat: no-repeat; background-position: left; background-size: contain; 
+    }
+    .outro-bg{
+        background-image: url(character-2.png); background-repeat: no-repeat; background-position: right; background-size: contain; 
+    }
+    .tirar{
+        list-style: none;
+    }
+    .espacamento{
+        margin-bottom: 10px;
+    }
+   .margem-top{
+       margin-top: 100px;
+   }
+   .borda-azul{
+       border-top: 3px solid #0069D9;
+   }
+   .footer{
+       font-size: 12px; color: gray;
+   }
+   .fonte{
+       font-size: 12px; font-weight: bold;
+   }
